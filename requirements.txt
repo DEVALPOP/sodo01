@@ -6,5 +6,4 @@ pyromod
 pyshorteners
 telebot
 kvsqlite
-Client
 asSQL
