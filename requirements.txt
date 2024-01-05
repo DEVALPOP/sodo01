@@ -1,0 +1,8 @@
+pyrogram
+requests
+asyncio
+telethon
+pyromod
+pyshorteners
+telebot
+kvsqlite
