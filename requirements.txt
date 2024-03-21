@@ -10,3 +10,4 @@ asSQL
 getids
 SpeechRecognition
 yt_dlp
+dragonxxdlib
