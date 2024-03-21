@@ -11,3 +11,4 @@ getids
 SpeechRecognition
 yt_dlp
 dragonxxdlib
+youtube_search
