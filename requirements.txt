@@ -9,3 +9,4 @@ kvsqlite
 asSQL
 getids
 SpeechRecognition
+yt_dlp
