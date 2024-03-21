@@ -13,3 +13,4 @@ yt_dlp
 dragonxxdlib
 youtube_search
 ffmpeg
+TgCrypto==الإصدار_المطلوب
